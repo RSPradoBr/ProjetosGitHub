@@ -1,11 +1,25 @@
-## Programa de cálculo de consumo e custo de energia elétrica
+# Programa de cálculo de consumo e custo de energia elétrica
 
-## Tecnologia utilizada
+# Tecnologias utilizadas
+
 <div style="display: inline_block"><br> 
 <img align="center" alt="Python" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python
 </div>
-**Python**
+<div style="display: inline_block"><br> 
+<img align="center" alt="Python" height="40" width="40" 
+src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"> Git
+</div><div style="display: inline_block"><br> 
+<img align="center" alt="Python" height="40" width="40" 
+src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"> GitHub
+</div>
+<div style="display: inline_block"><br> 
+<img align="center" alt="Python" height="40" width="40" 
+src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg"> GitHubActions
+</div><div style="display: inline_block"><br> 
+<img align="center" alt="Python" height="40" width="40" 
+src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"> VSCode
+</div>
 
 # Campos de entrada de dados e suas funções
 
