@@ -23,14 +23,15 @@ src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"> V
 
 # Campos de entrada de dados e suas funções
 
-"Nome do aparelho" aqui deve ser inserido o nome do equipamento que será analisado
+**"Nome do aparelho"** aqui deve ser inserido o nome do equipamento que será analisado
 "Potência do equipamento em Watts(W)" a potência do equipamento geralmente está em etiqueta na parte traseira do aparelho é um número seguido da letra W.
-"Tempo médio de uso diário em horas(h)" é o tempo estimado ou de uso médio do equipamento, deve ser escrito em hora inteira.
-valorKWh = float(0.75)
+
+**"Tempo médio de uso diário em horas(h)"** é o tempo estimado ou de uso médio do equipamento, deve ser escrito em hora inteira.
 
 # Fórmulas de cálculos
 
 **Consumo Mensal**: "Potencia * Horas Dia * 30) / 1000", 30 é o número de dias e 1000 é usado para reduzir o valor para a medida "k", kilo, que é igual dizer mil. 
+
 **Custo do consumo**: "Consumo Mensal * valor de custo do KWh
 
 <!--teste de comentário oculto da visualização do github-->
