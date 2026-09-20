@@ -28,12 +28,12 @@ src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"> V
 
 **"Tipo de imóvel"** - o usuário deverá escolher, entre as opções apresentadas, qual o imóvel dela se enquadra.
 
-**"Consumo mensal"** o usuário deverá informar, em número inteiro, qual é a quantidade de metros cúbicos de água que consome.
+**"Consumo mensal"** - o usuário deverá informar, em número inteiro, qual é a quantidade de metros cúbicos de água que consome.
 
 # Processamento e saída de dados
 
 **Processamento**: o programa classifica, conforme o que for digitado no campo de entrada "tipo de imóvel" em um dos três tipos, sendo qualquer outra seleção inválida, e cruza com a informação de "consumo mensal". 
 
-**Saída**: Diante do processamento o sistema pode e apresentar ao usuário se o consumo pode ser corporativo ou em consumo econômico, moderado e excessivo.
+**Saída**: Diante do processamento, o sistema apresenta ao usuário se o consumo pode ser corporativo ou em consumo econômico, moderado e excessivo.
 
 <!--treino de comentário oculto da visualização do github para o app consumo-agua-->
