@@ -11,7 +11,7 @@ Aplicação para monitoramento de água, desenvolvida em Python.
 
 ## Sobre o projeto
 
-O projeto tem como ponto de entrada o arquivo `app_monitor_agua.py` e é voltado ao monitoramento de água.
+O projeto tem como ponto de entrada o arquivo `app_monitor_agua.py` e é voltado ao monitoramento de água
 
 ## Como executar
 

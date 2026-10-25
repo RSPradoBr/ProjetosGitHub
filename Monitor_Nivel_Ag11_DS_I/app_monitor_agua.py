@@ -7,7 +7,7 @@ import random
 
 from colorama import Fore, Style
 
-# Função para exibir o nível da água com cores e mensagens correspondentes
+# Função para exibir o nível da água com cores e mensagens correspondentes.
 def exibir_nivel(nivel) -> None:#->None indica que a função não retorna nenhum valor
     niveis =  [
         f"{Fore.RED} 1 - Muito baixo(critico)",
