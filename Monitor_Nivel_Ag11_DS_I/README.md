@@ -21,7 +21,13 @@ O projeto tem como ponto de entrada o arquivo `app_monitor_agua.py` e é voltado
 python app_monitor_agua.py
 ```
 
-## Tecnologias
+## Tecnologias 
 
 - **Python** — linguagem utilizada na aplicação.
 - **Markdown** — formato deste README.
+
+## Telas do programa
+
+![Início e falha na autenticação do usuário](image.png)
+
+![Autenticação e resposta](image-1.png)
