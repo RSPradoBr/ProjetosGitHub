@@ -25,11 +25,11 @@ A explicação do funcionamento do código está descrito em comentários nas re
 ## Telas
 
 **Tela da codificação**
-<p><img src="./ReadmeImg/image.png" alt="Tela da codificacao">
+<p><img src="./ReadmeImg/image.png" alt="Tela da codificacao"></p>
 
 **Tela do funcionamento**
-<img src="./ReadmeImg/image-1.png" alt="Tela do funcionamento">
+<p><img src="./ReadmeImg/image-1.png" alt="Tela do funcionamento"></p>
 
 **Tela ao clicar no link**
-<img src="./ReadmeImg/image-2.png" alt="Tela ao clicar">
+<p><img src="./ReadmeImg/image-2.png" alt="Tela ao clicar">
 </p>
