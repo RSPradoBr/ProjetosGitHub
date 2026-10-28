@@ -25,10 +25,10 @@ A explicação do funcionamento do código está descrito em comentários nas re
 ## Telas
 
 **Tela da codificação**
-![Tela da codificação](/ProjetosGitHub/Sites_Favoritos_Ag12_DS_I/ReadmeImg/image.png)
+![Tela da codificação](<img src="/ProjetosGitHub/Sites_Favoritos_Ag12_DS_I/ReadmeImg/image.png">)
 
 **Tela do funcionamento**
-![Tela do funcionamento](/ProjetosGitHub/Sites_Favoritos_Ag12_DS_I/ReadmeImg/image-1.png)
+![Tela do funcionamento](<img src="/ProjetosGitHub/Sites_Favoritos_Ag12_DS_I/ReadmeImg/image-1.png">)
 
 **Tela ao clicar no link**
-![Tela ao clicar no link](/ProjetosGitHub/Sites_Favoritos_Ag12_DS_I/ReadmeImg/image-2.png)
+![Tela ao clicar no link](<img src="/ProjetosGitHub/Sites_Favoritos_Ag12_DS_I/ReadmeImg/image-2.png">)
